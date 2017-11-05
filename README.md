@@ -1,6 +1,6 @@
 # Express.js Rest Api
 
-![Alt Text](https://github.com/barrancocarlos/express-api/blob/master/public/images/readme/node.jpg)
+![Alt Text](https://github.com/barrancocarlos/express-api/blob/master/public/node.jpg)
 
 Simple rest api using node.js, express.js and mongodb
 

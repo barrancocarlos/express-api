@@ -1,6 +1,6 @@
 # Express.js Rest Api
 
-<div style="margin:0 auto;">![Alt Text](https://github.com/barrancocarlos/express-api/blob/master/public/images/readme/badge.png)</div>
+<div style="margin:0 auto;">![Alt Text](https://github.com/barrancocarlos/express-api/blob/master/public/images/readme/node.jpg)</div>
 
 Simple rest api using node.js, express.js and mongodb
 

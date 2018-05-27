@@ -29,7 +29,7 @@ $ cd express-api
 $ npm install
 
 # Run the app
-$ set DEBUG=myapp:* & npm start
+$ set DEBUG=express-api:* & npm start
 
 # App will run on http://localhost:3000
 ```

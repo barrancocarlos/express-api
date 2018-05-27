@@ -29,7 +29,7 @@ $ cd express-api
 $ npm install
 
 # Run the app
-$ node server.js
+$ set DEBUG=myapp:* & npm start
 
 # App will run on http://localhost:3000
 ```
@@ -37,4 +37,4 @@ $ node server.js
 ## License
 
 This project is licensed under the MIT License.
-The images used are in the public domain.
+
